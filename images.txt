@@ -1,3 +1,4 @@
 alpine
 python:alpine3.9
 filebrowser/filebrowser:latest
+mizhexiaoxiao/vue-fastapi-admin:latest
