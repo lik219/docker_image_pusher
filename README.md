@@ -10,7 +10,7 @@
 
 修改images.txt文件，添加需要的镜像，完成后按下面格式拉取<br>
 
-registry.cn-hangzhou.aliyuncs.com/lik219/XXX<br>
+docker pull registry.cn-hangzhou.aliyuncs.com/lik219/XXX<br>
 
 ### 配置阿里云
 登录阿里云容器镜像服务<br>
