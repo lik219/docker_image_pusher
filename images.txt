@@ -4,3 +4,4 @@ filebrowser/filebrowser:latest
 mizhexiaoxiao/vue-fastapi-admin:latest
 python:3.6-slim-stretch
 alextheloafer/easydarwin
+hslr/sun-panel:latest
